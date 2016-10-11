@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1476071376 source:d:\pragma\codeblocks\arithmetic\src\main.c
+	"Global.h"
+
+1476087729 d:\pragma\codeblocks\arithmetic\include\global.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1475996642 source:d:\pragma\codeblocks\arithmetic\src\partition.c
+	"Global.h"
+
+1476063943 source:d:\pragma\codeblocks\arithmetic\src\quicksort.c
+	"Global.h"
+
+1476000376 source:d:\pragma\codeblocks\arithmetic\src\global.c
+	"Global.h"
+
+1475998499 source:d:\pragma\codeblocks\arithmetic\src\appnumber.c
+	"Global.h"
+
+1476063992 source:d:\pragma\codeblocks\arithmetic\src\countof1.c
+	"Global.h"
+
+1476071547 source:d:\pragma\codeblocks\arithmetic\src\karatsuba.c
+	"Global.h"
+
+1476087590 source:d:\pragma\codeblocks\arithmetic\src\heapsort.c
+	"Global.h"
+
