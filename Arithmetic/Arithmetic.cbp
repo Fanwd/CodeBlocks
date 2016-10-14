@@ -37,7 +37,6 @@
 		<Unit filename="include/Global.h" />
 		<Unit filename="include/MergeSort.h" />
 		<Unit filename="include/RateOfSimilar.h" />
-		<Unit filename="include/TwoForkTree.h" />
 		<Unit filename="src/AppNumber.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -63,9 +62,6 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="src/RateOfSimilar.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="src/TwoForkTree.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="src/main.c">
