@@ -1,6 +1,7 @@
 #include "Global.h"
 #include "RateOfSimilar.h"
 #include "MergeSort.h"
+#include "TwoForkTree.h"
 
 void quick_test();
 void part_test();
@@ -12,7 +13,8 @@ void heap_sort_test();
 
 int main()
 {
-    MergeSort_test();
+    TwoForkTreeTest();
+//    MergeSort_test();
 //    RateOfSimilar_test();
 //    RateOfSimilar_c_test();
 //    printf("%d\n", (int)pow(10, 2*1));

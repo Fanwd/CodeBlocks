@@ -70,3 +70,51 @@
 1476424219 source:d:\pragma\github\codeblocks\arithmetic\src\rateofsimilar.c
 	"RateOfSimilar.h"
 
+1476195423 source:e:\pragma\github\codeblocks\arithmetic\src\appnumber.c
+	"Global.h"
+
+1476195423 e:\pragma\github\codeblocks\arithmetic\include\global.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1476195423 source:e:\pragma\github\codeblocks\arithmetic\src\countof1.c
+	"Global.h"
+
+1476195423 source:e:\pragma\github\codeblocks\arithmetic\src\global.c
+	"Global.h"
+
+1476195423 source:e:\pragma\github\codeblocks\arithmetic\src\heapsort.c
+	"Global.h"
+
+1476195423 source:e:\pragma\github\codeblocks\arithmetic\src\karatsuba.c
+	"Global.h"
+
+1476443274 source:e:\pragma\github\codeblocks\arithmetic\src\mergesort.c
+	"MergeSort.h"
+
+1476443274 e:\pragma\github\codeblocks\arithmetic\include\mergesort.h
+	"Global.h"
+
+1476195423 source:e:\pragma\github\codeblocks\arithmetic\src\partition.c
+	"Global.h"
+
+1476195423 source:e:\pragma\github\codeblocks\arithmetic\src\quicksort.c
+	"Global.h"
+
+1476443274 source:e:\pragma\github\codeblocks\arithmetic\src\rateofsimilar.c
+	"RateOfSimilar.h"
+
+1476443274 e:\pragma\github\codeblocks\arithmetic\include\rateofsimilar.h
+	"Global.h"
+
+1476457503 source:e:\pragma\github\codeblocks\arithmetic\src\main.c
+	"Global.h"
+	"RateOfSimilar.h"
+	"MergeSort.h"
+	"TwoForkTree.h"
+
+1476459114 e:\pragma\github\codeblocks\arithmetic\include\twoforktree.h
+	"Global.h"
+
