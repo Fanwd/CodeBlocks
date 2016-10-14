@@ -1,4 +1,5 @@
 #include "Global.h"
+#include "RateOfSimilar.h"
 
 void quick_test();
 void part_test();
@@ -10,6 +11,8 @@ void heap_sort_test();
 
 int main()
 {
+    RateOfSimilar_test();
+    RateOfSimilar_c_test();
 //    printf("%d\n", (int)pow(10, 2*1));
 //    quick_test();
 //    part_test();
@@ -17,8 +20,7 @@ int main()
 //    count1_test();
 //    karatsuba_test();
 //    regular_multi_test();
-/**< ¶ÑÅÅÐò²âÊÔ */
-    heap_sort_test();
+//    heap_sort_test();
     return 0;
 }
 

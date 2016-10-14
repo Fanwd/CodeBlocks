@@ -29,3 +29,37 @@
 1476087590 source:d:\pragma\codeblocks\arithmetic\src\heapsort.c
 	"Global.h"
 
+1476158288 source:d:\pragma\github\codeblocks\arithmetic\src\appnumber.c
+	"Global.h"
+
+1476153225 source:d:\pragma\github\codeblocks\arithmetic\src\countof1.c
+	"Global.h"
+
+1476153225 source:d:\pragma\github\codeblocks\arithmetic\src\global.c
+	"Global.h"
+
+1476153225 source:d:\pragma\github\codeblocks\arithmetic\src\heapsort.c
+	"Global.h"
+
+1476153225 source:d:\pragma\github\codeblocks\arithmetic\src\karatsuba.c
+	"Global.h"
+
+1476153225 source:d:\pragma\github\codeblocks\arithmetic\src\partition.c
+	"Global.h"
+
+1476153226 source:d:\pragma\github\codeblocks\arithmetic\src\quicksort.c
+	"Global.h"
+
+1476414291 d:\pragma\github\codeblocks\arithmetic\include\global.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1476424111 source:d:\pragma\github\codeblocks\arithmetic\src\main.c
+	"Global.h"
+	"RateOfSimilar.h"
+
+1476423642 d:\pragma\github\codeblocks\arithmetic\include\rateofsimilar.h
+	"Global.h"
+
