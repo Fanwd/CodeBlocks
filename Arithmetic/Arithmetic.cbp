@@ -13,9 +13,9 @@
 				<Option compiler="gcc" />
 				<Compiler>
 					<Add option="-g" />
-					<Add directory="D:/pragma/CodeBlocks/Arithmetic/" />
-					<Add directory="D:/pragma/CodeBlocks/Arithmetic/include" />
-					<Add directory="D:/pragma/CodeBlocks/Arithmetic/src" />
+					<Add directory="../Arithmetic" />
+					<Add directory="include" />
+					<Add directory="src" />
 				</Compiler>
 			</Target>
 			<Target title="Release">
@@ -35,6 +35,7 @@
 			<Add option="-Wall" />
 		</Compiler>
 		<Unit filename="include/Global.h" />
+		<Unit filename="include/RateOfSimilar.h" />
 		<Unit filename="src/AppNumber.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -54,6 +55,9 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="src/QuickSort.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/RateOfSimilar.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="src/main.c">
