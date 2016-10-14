@@ -56,10 +56,17 @@
 	<stdlib.h>
 	<math.h>
 
-1476424111 source:d:\pragma\github\codeblocks\arithmetic\src\main.c
+1476434158 source:d:\pragma\github\codeblocks\arithmetic\src\main.c
 	"Global.h"
 	"RateOfSimilar.h"
+	"MergeSort.h"
 
 1476423642 d:\pragma\github\codeblocks\arithmetic\include\rateofsimilar.h
 	"Global.h"
+
+1476434346 d:\pragma\github\codeblocks\arithmetic\include\mergesort.h
+	"Global.h"
+
+1476424219 source:d:\pragma\github\codeblocks\arithmetic\src\rateofsimilar.c
+	"RateOfSimilar.h"
 
