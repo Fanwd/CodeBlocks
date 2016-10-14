@@ -35,6 +35,7 @@
 			<Add option="-Wall" />
 		</Compiler>
 		<Unit filename="include/Global.h" />
+		<Unit filename="include/MergeSort.h" />
 		<Unit filename="include/RateOfSimilar.h" />
 		<Unit filename="src/AppNumber.c">
 			<Option compilerVar="CC" />
@@ -49,6 +50,9 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="src/Karatsuba.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/MergeSort.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="src/Partition.c">
